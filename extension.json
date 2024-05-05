@@ -1,0 +1,7 @@
+{
+  "name": "Asteroid Theme",
+  "description": "A dark cyan theme inspired by the vastness of space. Optimized for reduced eye strain and enhanced code readability.",
+  "version": "0.0.1",
+  "authors": ["Webhooked <hello@webhooked.dev>"],
+  "repository": "https://github.com/webhooked/asteroid-zed"
+}
